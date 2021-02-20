@@ -12,6 +12,7 @@ Head over to the [Discussions](https://github.com/AL0YSI0US/aloysious-the-ambiti
 Dates at a glance...<br>
 [19-21 FEB] PyCascades - ✨ 
 [22-27 FEB] JS World Conference
+[8 MAR 21'] Girl Geek Elevate Virtual Conference
 [08-19 MAR] Mozilla Festival - ✨  
 [16-18 MAR] CSO's Cybersecurity Summit
 [14-16 APR] React
@@ -39,6 +40,17 @@ FEBRUARY 19TH — 21ST, 2021
 ### [JS World Conference](https://frontenddeveloperlove.com/)
 
 22-27 FEB 2021
+
+✅ Tickets Aquired (free)
+
+----
+
+[Girl Geek Elevate Virtual Conference](https://girlgeek.io/conferences/elevate2021/)
+
+8 MAR 2021
+
++ Celebrate International Women’s Day with the team behind Girl Geek X – Angie Chang and Sukrutha Bhadourias  
++ Join us online as we share our motivations for creating the annual conference for mid-to-senior career level women, and why it’s so important.
 
 ✅ Tickets Aquired (free)
 
