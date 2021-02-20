@@ -70,7 +70,7 @@ April 14-16, 2021.
 
 + Open Diversity Scholarships:
 + Application form  open until March 1, 2021, 11:59pm CET.
-+ [link to divesity application in this article](https://reactsummit.medium.com/get-a-diversity-scholarship-for-react-summit-remote-edition-2021-837c8b8795a2?fbclid=IwAR17CBqsqtNrWDluJpCH-JNfJza49PViDhXkN-akyBWkDsQDs_t7oR7VZiE)
++ [link to diversity application in this article](https://reactsummit.medium.com/get-a-diversity-scholarship-for-react-summit-remote-edition-2021-837c8b8795a2?fbclid=IwAR17CBqsqtNrWDluJpCH-JNfJza49PViDhXkN-akyBWkDsQDs_t7oR7VZiE)
 
 🎯 Application pending
 
