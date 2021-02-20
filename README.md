@@ -4,7 +4,7 @@
 
 If there's an event you're excited about this year I would love to hear about it! 
 
-Head over to the [Discussions](https://github.com/AL0YSI0US/aloysious-the-ambitious/discussions) and shoot me a message.✉️
+Head over to the [Discussions](https://github.com/AL0YSI0US/aloysious-the-ambitious/discussions) and shoot me a message.✉️ <br><br>
 
 <table align="center"><tr><td>
 <pre>
