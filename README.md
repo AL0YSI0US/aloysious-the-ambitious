@@ -23,7 +23,7 @@ Dates at a glance...<br>
 </pre>
 </td></tr></table><br>
 
-### [PyCascades](https://2021.pycascades.com/)
+### [PyCascades](https://2021.pycascades.com/) Happening This Weekend!
 
 FEBRUARY 19TH — 21ST, 2021
 
