@@ -10,10 +10,9 @@ Head over to the [Discussions](https://github.com/AL0YSI0US/aloysious-the-ambiti
 <pre>
 
 Dates at a glance...<br>
-[19-21 FEB] PyCascades - ✨ 
 [22-27 FEB] JS World Conference
 [8 MAR 21'] Girl Geek Elevate Virtual Conference
-[08-19 MAR] Mozilla Festival - ✨  
+[08-19 MAR] Mozilla Festival - ✨
 [16-18 MAR] CSO's Cybersecurity Summit
 [14-16 APR] React
 [20-22 APR] Collision
@@ -23,19 +22,6 @@ Dates at a glance...<br>
 [19-23 JUN] Game Developer Conference 2021 
 </pre>
 </td></tr></table><br>
-
-### [PyCascades](https://2021.pycascades.com/)
-
-FEBRUARY 19TH — 21ST, 2021
-
-+ Social Events: February 19th
-+ Live-streamed Talks: February 20th
-+ Mentored Sprints: February 21st.
-+ tickets: $10 Student
-
-✅ Tickets Aquired
-
-----
 
 ### [JS World Conference](https://frontenddeveloperlove.com/)
 
@@ -156,3 +142,9 @@ tech enthusiasts, and the workplaces that support them.
 This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/AL0YSI0US/" property="cc:attributionName" rel="cc:attributionURL">AL0YSI0US</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
 
 This license lets others distribute, remix, adapt, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.
+
+----
+
+### Past Events           
+           
+[19-21 FEB 2021] [PyCascades](https://2021.pycascades.com/) - ✨ 
