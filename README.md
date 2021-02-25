@@ -11,7 +11,6 @@ Head over to the [Discussions](https://github.com/AL0YSI0US/aloysious-the-ambiti
 
 Dates at a glance...<br>
 [22-27 FEB] JS World Conference
-[24 FEB 21] Women in Technology - 5:30AM to Feb 24, 2:00PM
 [25 FEB 21] JSworld Conference Day 4 + Day 5 - 5:00AM to Feb 28, 2:00AM PST
 [26 FEB 21] Our Digital Future Summit - 1:00AM to Feb 26, 12:00PM PST
 [08 MAR 21] Girl Geek Elevate Virtual Conference
@@ -30,18 +29,6 @@ Dates at a glance...<br>
 ### [JS World Conference](https://frontenddeveloperlove.com/)
 
 22-27 FEB 2021
-
-✅ Tickets Aquired (free)
-
-----
-
-### [Women in Technology](https://hopin.com/events/women-in-technology-a5d875a1-2350-4d19-9645-b77bf27621d7)
-
-Feb 24, 5:30AM to Feb 24, 2:00PM PST
-
-+ An opportunity to learn, engage, network, and get inspired. This dynamic virtual platform will bring together a community of business leaders to share ideas and conversations around technology trends, innovation, diversity & inclusion and best practices.
-
-+ Top female influencers from Ohio, America's Data Corridor, the Midwest and around the globe comprise the speaker line up. These trailblazing spokeswomen will address tracks under the themes of: Cybersecurity, Data Analytics, Data Governance, Digital Transformation, Diversity and Inclusion, Robotics Process Automation, Talent, Leadership/Entrepreneurship and Professional Development.
 
 ✅ Tickets Aquired (free)
 
@@ -152,7 +139,7 @@ April 20th–22nd, 2021
 + Conference Stickers & more sent to your home
 + Certificates on Workshops & Conference Participation
 + Instant Access to Talks Recordings
-+ tickets: $19.99 before tax [Womxn only, apply here](https://collisionconf.com/women-in-tech#:~:text=What%20are%20Collision%20women%20in%20tech%20tickets%3F&text=Women%20in%20tech%20tickets%20offer,exclusive%20women%20in%20tech%20extras.)
++ tickets: $19.99 before tax [Womxn only, apply here](https://collisionconf.com/women-in-tech#:~:text=What%20are%20Collision%20women%20in%20tech%20tickets%3F&text=Women%20in%20tech%20tickets%20offer,exclusive%20women%20in%20tech%20extras.) ♀️
 + tickets general= $80-$999
 
 ✅ Tickets Aquired
@@ -210,3 +197,4 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 ### Past Events           
            
 [19-21 FEB 2021] [PyCascades](https://2021.pycascades.com/) - ✨ 
+[24 FEB 21] [Women in Technology](https://hopin.com/events/women-in-technology-a5d875a1-2350-4d19-9645-b77bf27621d7) ♀️
