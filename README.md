@@ -151,6 +151,8 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 ### Past Events           
            
+[18 FEB 21] [Bill Gates In Conversation](https://www.geekwire.com/calendar-event/bill-gates-conversation-online-bill-gates-conversation-online/)—Online
+
 [19-21 FEB 2021] [PyCascades](https://2021.pycascades.com/) - ✨ 
 
 [24 FEB 21] [Women in Technology](https://hopin.com/events/women-in-technology-a5d875a1-2350-4d19-9645-b77bf27621d7) ♀️
