@@ -10,9 +10,6 @@ Head over to the [Discussions](https://github.com/AL0YSI0US/aloysious-the-ambiti
 <pre>
 
 Dates at a glance...<br>
-[22-27 FEB] JS World Conference
-[25 FEB 21] JSworld Conference Day 4 + Day 5 - 5:00AM to Feb 28, 2:00AM PST
-[26 FEB 21] Our Digital Future Summit - 1:00AM to Feb 26, 12:00PM PST
 [08 MAR 21] Girl Geek Elevate Virtual Conference
 [10 MAR 21] Gender Agenda Online Summit
 [08-19 MAR] Mozilla Festival - ✨
@@ -25,48 +22,6 @@ Dates at a glance...<br>
 [19-23 JUN] Game Developer Conference 2021 
 </pre>
 </td></tr></table><br>
-
-### [JS World Conference](https://frontenddeveloperlove.com/)
-
-22-27 FEB 2021
-
-✅ Tickets Aquired (free)
-
-----
-
-### [JSworld Conference Day 4 + Day 5](https://hopin.com/events/vuejs-amsterdam-jsworld-conference-day-5) = Vuejs Amsterdam
-
-Feb 25, 5:00AM to Feb 28, 2:00AM PST
-
-+ As part of JSworld Conference on Day 5 Vuejs Amsterdam will take place. Vuejs Amsterdam is the Largest & Most Epic Vue Conference in the World. Vuejs Amsterdam 2021 Online will be the first of its kind 24 Hour Conference. Bringing together `Vue.js` Enthusiasts from around the World. Vuejs Amsterdam Conference is the Premier `Vue.js` Conference and Community Event of 2021. Learn & Talk directly with the `Vue.js` Leaders from around the world
-
-+ Vuejs Amsterdam takes place Friday 26th January through till Saturday 27th February 2021. 30+ Talks, Hot Topics, Panel Discussions, In-depth Interviews & Updates from Creators of Libraries & Authors. Friday 26th February we begin with Vuejs Amsterdam 24 Hour. Conference the Largest & Most Epic `Vue.js` Conference in the World
-
-Join 30,000 Vuejs Enthusiasts for a full 24 hours of content to help you level up as `Vue.js` Developer. 
-
-**Free Vuejs Amsterdam 24 Hour Online Conference**
-
-✅ Tickets Aquired
-
-----
-
-### [Our Digital Future Summit](https://hopin.com/events/our-digital-future-summit)
-Our Digital Future Summit
-Feb 26, 1:00AM to Feb 26, 12:00PM PST
-
-"Our Digital Future Summit" is the must-attend event for Black Professionals across all industries to understand how the future of technology will transform their careers. 
-
-Key Topics include:
-+ Artificial Intelligence Is Advancing: Where Are We?
-+ Using Technology to Amplify Our Stories
-+ Levelling the Playing Field: Upskilling For the Future
-+ Is Tech Good or Bad? Why Inclusion is the Answer
-+ Transforming Industries: Elevating People & Communities
-+ The Winner Prepare, The Losers Deny: Digital Transformation is Imminent
-
-Tickets = £19.99
-
-----
 
 [Girl Geek Elevate Virtual Conference](https://girlgeek.io/conferences/elevate2021/)
 
@@ -199,3 +154,10 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 [19-21 FEB 2021] [PyCascades](https://2021.pycascades.com/) - ✨ 
 
 [24 FEB 21] [Women in Technology](https://hopin.com/events/women-in-technology-a5d875a1-2350-4d19-9645-b77bf27621d7) ♀️
+
+[22-27 FEB 2021] [JS World Conference](https://frontenddeveloperlove.com/)
+
+[25 FEB 21] [JSworld Conference Day 4 + Day 5](https://hopin.com/events/vuejs-amsterdam-jsworld-conference-day-5) = Vuejs Amsterdam
+
+[26 FEB 21] [Our Digital Future Summit](https://hopin.com/events/our-digital-future-summit)
+
