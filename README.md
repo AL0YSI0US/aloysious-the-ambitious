@@ -14,6 +14,7 @@ Dates at a glance...<br>
 [10 MAR 21] Gender Agenda Online Summit
 [08-19 MAR] Mozilla Festival - ✨
 [16-18 MAR] CSO's Cybersecurity Summit
+[23 MAR 21] The Wonderful World of Data Quality in Python
 [14-16 APR] React
 [20-22 APR] Collision
 [15-19 MAR] GDC SHOWCASE
@@ -46,12 +47,6 @@ and the wider society. By joining this event you agree to receive marketing rela
 
 ----
 
-[CSO's Cybersecurity Summit](https://events.idg.com/event-series/csos-cybersecurity-summit/?campaign={nonbrand}&medium={cpc}&source={google}&gclid=Cj0KCQiA4L2BBhCvARIsAO0SBdaOPwKQudQeqLYKQTTjdP3HBzKRnVOtl1uWEZjIjeuFMn_5MuHGSlIaAuzLEALw_wcB)
-
-16- 18 MAR 2021
-
-----
-
 ### [Mozilla](https://www.mozillafestival.org/en/) Festival
 
 [08-19 MAR
@@ -63,6 +58,24 @@ part maker festival, and the premiere gathering for activists in
 diverse global movements fighting for a more humane digital world.
 
 ✅ Tickets Aquired
+
+----
+
+[CSO's Cybersecurity Summit](https://events.idg.com/event-series/csos-cybersecurity-summit/?campaign={nonbrand}&medium={cpc}&source={google}&gclid=Cj0KCQiA4L2BBhCvARIsAO0SBdaOPwKQudQeqLYKQTTjdP3HBzKRnVOtl1uWEZjIjeuFMn_5MuHGSlIaAuzLEALw_wcB)
+
+16- 18 MAR 2021
+
+----
+
+### [The Wonderful World of Data Quality in Python](https://www.meetup.com/data-umbrella/events/276462758/?isFromReg=true)
+
+23 March 2021 9am PST / 12pm EST / 8pm EAT / 10:30 PM IST
+
+We’ll first look at the landscape of data quality related open source libraries and look at a few examples such as pydqc, datagristle, bulwark, dvc, dedupe, and others, to give you an idea of the space. 
+
+In the second half, we will take a closer look at Great Expectations, one of the most popular open source Python packages for data validation and documentation. 
+
+We’ll demo how to create and run test suites with Great Expectations, and show you how to use the profiling feature to automatically create data tests for you.
 
 ----
 
