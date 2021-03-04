@@ -10,6 +10,7 @@ Head over to the [Discussions](https://github.com/AL0YSI0US/aloysious-the-ambiti
 <pre>
 
 Dates at a glance...<br>
+[04 MAR 21] Information Technology Networking Event - 💼 
 [08 MAR 21] Girl Geek Elevate Virtual Conference
 [10 MAR 21] Gender Agenda Online Summit
 [08-19 MAR] Mozilla Festival - ✨
@@ -23,6 +24,18 @@ Dates at a glance...<br>
 [19-23 JUN] Game Developer Conference 2021 
 </pre>
 </td></tr></table><br>
+
+[Information Technology Networking Event](https://www.facebook.com/events/249936280010203/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22search_results%22%2C%22surface%22%3A%22search%22%7D]%7D) - 💼 
+
+4 MAR 21 
+
+11 AM PST – 12 PM PST
+
+To register, please email: info@investvets.org
+
+Tickets (free)
+
+----
 
 [Girl Geek Elevate Virtual Conference](https://girlgeek.io/conferences/elevate2021/)
 
