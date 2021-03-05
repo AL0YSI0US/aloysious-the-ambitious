@@ -178,6 +178,10 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 [04 MAR 21][Information Technology Networking Event](https://www.facebook.com/events/249936280010203/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22search_results%22%2C%22surface%22%3A%22search%22%7D]%7D) - 💼
 
-![Calendar views](https://gpvc.arturio.dev/AL0YSI0US) 
+
+
+![Profile views](https://gpvc.arturio.dev/AL0YSI0US) 👀
+
+
 
 <!-- https://github.com/AL0YSI0US/hit-counter --!>
