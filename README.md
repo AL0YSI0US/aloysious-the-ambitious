@@ -10,7 +10,6 @@ Head over to the [Discussions](https://github.com/AL0YSI0US/aloysious-the-ambiti
 <pre>
 
 Dates at a glance...<br>
-[08 MAR 21] Girl Geek Elevate Virtual Conference
 [10 MAR 21] Gender Agenda Online Summit
 [08-19 MAR] Mozilla Festival - ✨
 [16-18 MAR] CSO's Cybersecurity Summit
@@ -23,17 +22,6 @@ Dates at a glance...<br>
 [19-23 JUN] Game Developer Conference 2021 
 </pre>
 </td></tr></table><br>
-
-[Girl Geek Elevate Virtual Conference](https://girlgeek.io/conferences/elevate2021/)
-
-8 MAR 2021
-
-+ Celebrate International Women’s Day with the team behind Girl Geek X – Angie Chang and Sukrutha Bhadourias  
-+ Join us online as we share our motivations for creating the annual conference for mid-to-senior career level women, and why it’s so important.
-
-✅ Tickets Aquired (free)
-
-----
 
 [Gender Agenda](https://hopin.com/events/gender-agenda-online-summit) Online Summit 
 
@@ -177,6 +165,8 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 [26 FEB 21] [Our Digital Future Summit](https://hopin.com/events/our-digital-future-summit)
 
 [04 MAR 21][Information Technology Networking Event](https://www.facebook.com/events/249936280010203/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22search_results%22%2C%22surface%22%3A%22search%22%7D]%7D) - 💼
+
+[08 MAR 21] [Girl Geek Elevate Virtual Conference](https://girlgeek.io/conferences/elevate2021/)
 
 
 
