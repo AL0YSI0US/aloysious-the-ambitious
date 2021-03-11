@@ -10,7 +10,6 @@ Head over to the [Discussions](https://github.com/AL0YSI0US/aloysious-the-ambiti
 <pre>
 
 Dates at a glance...<br>
-[10 MAR 21] Gender Agenda Online Summit
 [08-19 MAR] Mozilla Festival - ✨
 [16-18 MAR] CSO's Cybersecurity Summit
 [23 MAR 21] The Wonderful World of Data Quality in Python
@@ -23,17 +22,6 @@ Dates at a glance...<br>
 </pre>
 </td></tr></table><br>
 
-[Gender Agenda](https://hopin.com/events/gender-agenda-online-summit) Online Summit 
-
-Mar 10
-
-A global digital summit, full day of conversations with trailblazing women 
-and male allies who are committed to advancing gender equality in the workplace
-and the wider society. By joining this event you agree to receive marketing related communications from Equality Leaders and its selected partners about products and services.
-
-✅ Tickets Aquired (free)
-
-----
 
 ### [Mozilla](https://www.mozillafestival.org/en/) Festival
 
@@ -167,6 +155,8 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 [04 MAR 21][Information Technology Networking Event](https://www.facebook.com/events/249936280010203/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22search_results%22%2C%22surface%22%3A%22search%22%7D]%7D) - 💼
 
 [08 MAR 21] [Girl Geek Elevate Virtual Conference](https://girlgeek.io/conferences/elevate2021/)
+
+[10 MAR 21] [Gender Agenda](https://hopin.com/events/gender-agenda-online-summit) Online Summit
 
 
 
