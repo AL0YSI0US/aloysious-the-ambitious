@@ -10,8 +10,6 @@ Head over to the [Discussions](https://github.com/AL0YSI0US/aloysious-the-ambiti
 <pre>
 
 Dates at a glance...<br>
-[08-19 MAR] Mozilla Festival - ✨
-[16-18 MAR] CSO's Cybersecurity Summit
 [23 MAR 21] The Wonderful World of Data Quality in Python
 [14-16 APR] React
 [20-22 APR] Collision
@@ -22,26 +20,6 @@ Dates at a glance...<br>
 </pre>
 </td></tr></table><br>
 
-
-### [Mozilla](https://www.mozillafestival.org/en/) Festival
-
-[08-19 MAR
-
-MozFest is a unique hybrid: part art, tech and society convening, 
-
-part maker festival, and the premiere gathering for activists in 
-
-diverse global movements fighting for a more humane digital world.
-
-✅ Tickets Aquired
-
-----
-
-[CSO's Cybersecurity Summit](https://events.idg.com/event-series/csos-cybersecurity-summit/?campaign={nonbrand}&medium={cpc}&source={google}&gclid=Cj0KCQiA4L2BBhCvARIsAO0SBdaOPwKQudQeqLYKQTTjdP3HBzKRnVOtl1uWEZjIjeuFMn_5MuHGSlIaAuzLEALw_wcB)
-
-16- 18 MAR 2021
-
-----
 
 ### [The Wonderful World of Data Quality in Python](https://www.meetup.com/data-umbrella/events/276462758/?isFromReg=true)
 
@@ -138,7 +116,10 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 ----
 
-### Past Events           
+### Past Events     
+[08-19 MAR] [Mozilla](https://www.mozillafestival.org/en/) Festival - ✨
+
+[16-18 MAR] [CSO's Cybersecurity Summit](https://events.idg.com/event-series/csos-cybersecurity-summit/?campaign={nonbrand}&medium={cpc}&source={google}&gclid=Cj0KCQiA4L2BBhCvARIsAO0SBdaOPwKQudQeqLYKQTTjdP3HBzKRnVOtl1uWEZjIjeuFMn_5MuHGSlIaAuzLEALw_wcB)
            
 [18 FEB 21] [Bill Gates In Conversation](https://www.geekwire.com/calendar-event/bill-gates-conversation-online-bill-gates-conversation-online/)—Online
 
