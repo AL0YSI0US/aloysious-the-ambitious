@@ -10,15 +10,38 @@ Head over to the [Discussions](https://github.com/AL0YSI0US/aloysious-the-ambiti
 <pre>
 
 Dates at a glance...<br>
+[13 APR] Black in Tech
 [14-16 APR] React
 [20-22 APR] Collision
+[18 MAY] Accessibility In Tech
 [15-19 MAR] GDC SHOWCASE
 [24-25 MAR] Codecamp .NET
 [25-27 MAR] DiversiTech Summit - 💼 
+[15 APR] Technical Workshop 1: Intro to Digital Accessibility & Inclusion
+[17-18 APR] VetsinTech: "The Invasion" National Conference 2021
+[22 APR] Technical Workshop 2: Live/Streamed Program Accessibility
+[29 APR] Technical Workshop 3: Accessibility in Digital Collections
+[15 JUN] LGBTQ+ in Tech
 [19-23 JUN] Game Developer Conference 2021 
+[17 AUG] Latinx in Tech
+[19 OCT] Women in Tech
+[16 NOV] Veterans in Tech
 </pre>
 </td></tr></table><br>
 
+### [Black in Tech](https://www.eventbrite.com/e/black-in-tech-summit-presented-by-deloitte-tickets-130594889831?aff=erelpanelorg)
+
+Tue, April 13, 2021 
+
+10:00 AM – 12:30 PM PDT
+
+**WHO IS THE EVENT FOR?**
+
+Black leaders, entrepreneurs, and allies in tech who support and invest in diversity and inclusion. Join our new LinkedIn Group and start connecting with fellow entrepreneurs, tech professionals and more who will be attending the summit! Discuss takeaways, the session topics as well as future opportunities during and after the event!
+
+✅ Tickets acquired
+
+----
 
 ### [React](https://remote.reactsummit.com/) Summit
 
@@ -51,15 +74,15 @@ April 20th–22nd, 2021
 + tickets: $19.99 before tax [Womxn only, apply here](https://collisionconf.com/women-in-tech#:~:text=What%20are%20Collision%20women%20in%20tech%20tickets%3F&text=Women%20in%20tech%20tickets%20offer,exclusive%20women%20in%20tech%20extras.) ♀️
 + tickets general= $80-$999
 
-✅ Tickets Aquired
+✅ Tickets acquired
 
 ----
 
 ### [GDC SHOWCASE](https://gdconf.com/showcase?MCAID=77FB1CFE532B22840A490D45@AdobeOrg)
 
-March 15-19, 2021 **FREE**
+March 15-19, 2021 
 
-✅ Tickets Aquired
+✅ Tickets acquired (free)
 
 <h4 align="center">👆🏾 event above is a showcase for the event below 👇🏾</h4>
 
@@ -79,7 +102,7 @@ Two days dedicated to .NET and learn more about the subject from
 
 some of the world’s top experts and thought leaders in the field.
 
-✅ Tickets Aquired = (free)
+✅ Tickets acquired = (free)
 
 ----
 
@@ -93,7 +116,125 @@ tech enthusiasts, and the workplaces that support them.
 
 [Tickets](https://www.eventbrite.com/e/diversitech-summit-tickets-137064961991) 0-50$
 
-✅ Tickets Aquired
+✅ Tickets acquired 
+
+----
+
+### [Technical Workshop 1: Intro to Digital Accessibility & Inclusion](https://www.eventbrite.com/e/technical-workshop-1-intro-to-digital-accessibility-inclusion-tickets-145128953607?aff=erelpanelorg)
+
+Thu, April 15, 2021
+
+11:00 AM – 12:00 PM PDT
+
+✅ Tickets acquired (free)
+
+----
+
+### [VetsinTech: "The Invasion" National Conference 2021](https://www.eventbrite.com/e/vetsintech-the-invasion-national-conference-2021-tickets-86367540639?aff=ebdssbonlinesearch)
+
+Sat, Apr 17, 2021, 8:00 AM –
+
+Sun, Apr 18, 2021, 12:00 PM PDT
+
+✅ Tickets acquired ($5-$500)
+
+----
+
+### [Technical Workshop 2: Live/Streamed Program Accessibility](https://www.eventbrite.com/e/technical-workshop-2-livestreamed-program-accessibility-tickets-145131368831?aff=erellivmlt)
+
+Thu, April 22, 2021
+
+11:00 AM – 12:00 PM PDT
+
+✅ Tickets acquired (free)
+
+----
+
+### [Technical Workshop 3: Accessibility in Digital Collections](https://www.eventbrite.com/e/technical-workshop-3-accessibility-in-digital-collections-tickets-145136779013?aff=erellivmlt)
+
+Thu, April 29, 2021
+
+11:00 AM – 12:00 PM PDT
+
+✅ Tickets acquired (free)
+
+----
+
+### [React & REST API: Get Data From a Web Database!](https://www.eventbrite.com/e/react-rest-api-get-data-from-a-web-database-tickets-148789351957?aff=ebdssbonlinesearch)
+
+Thu, April 29, 2021
+
+6:00 PM – 8:00 PM PDT
+
+In this 2 hour workshop, you'll walk away with a React project that interacts with Kintone, a Web Database service.
+
+We'll walk you through the basics of REST API calls and CORS, usage of State and Effect Hooks, setting up an Express back-end, and using it as a proxy.
+
+Prerequisite: 
+
+🚀 Sign up for Kintone!
+
+① Sign-Up for Developer Program Account (Website) 🌐
+
++ bit.ly/KDP_signup
+
+② THEN Create a Kintone Subdomain (Database) 📂
+
++ bit.ly/K_DevLic
+
+✅ Tickets acquired (free)
+
+----
+
+### [Accessibility In Tech](https://www.eventbrite.com/e/accessibility-in-tech-presented-by-microsoft-tickets-135385015225?aff=ebdssbonlinesearch) 
+
+`presented by Microsoft`
+
+Tue, May 18, 2021
+
+11:30 AM – 2:30 PM PDT
+
+✅ Tickets acquired (free)
+
+----
+
+### [LGBTQ+ in Tech](https://www.eventbrite.com/e/lgbtq-in-tech-tickets-135388134555?aff=erellivmlt)
+
+Tue, June 15, 2021
+
+11:30 AM – 2:30 PM PDT
+
+✅ Tickets acquired (free)
+
+----
+
+### [Latinx in Tech](https://www.eventbrite.com/e/latinx-in-tech-tickets-135395779421?aff=erelpanelorg)
+
+Tue, August 17, 2021
+
+11:30 AM – 2:30 PM PDT
+
+Tickets = (free)
+
+----
+
+### [Women in Tech](https://www.eventbrite.com/e/women-in-tech-tickets-135524779263?aff=erelpanelorg)
+
+Tue, October 19, 2021
+
+11:30 AM – 2:30 PM PDT
+
+Tickets = (free)
+
+----
+
+### [Veterans in Tech](https://www.eventbrite.com/e/veterans-in-tech-tickets-136323397953?aff=erelpanelorg)
+
+Tue, November 16, 2021
+
+11:30 AM – 2:30 PM PST
+
+✅ Tickets acquired (free)
 
 ----
 
@@ -103,11 +244,8 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 ----
 
-### Past Events     
-
-
-
-           
+<h3 align="center">Past Events</h3>     
+          
 { `18 FEB 21` } - [Bill Gates In Conversation](https://www.geekwire.com/calendar-event/bill-gates-conversation-online-bill-gates-conversation-online/)—Online
 
 { `19-21 FEB 2021` } - [PyCascades](https://2021.pycascades.com/) - ✨ 
