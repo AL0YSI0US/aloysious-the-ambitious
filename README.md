@@ -10,7 +10,6 @@ Head over to the [Discussions](https://github.com/AL0YSI0US/aloysious-the-ambiti
 <pre>
 
 Dates at a glance...<br>
-[23 MAR 21] The Wonderful World of Data Quality in Python
 [14-16 APR] React
 [20-22 APR] Collision
 [15-19 MAR] GDC SHOWCASE
@@ -20,18 +19,6 @@ Dates at a glance...<br>
 </pre>
 </td></tr></table><br>
 
-
-### [The Wonderful World of Data Quality in Python](https://www.meetup.com/data-umbrella/events/276462758/?isFromReg=true)
-
-23 March 2021 9am PST / 12pm EST / 8pm EAT / 10:30 PM IST
-
-We’ll first look at the landscape of data quality related open source libraries and look at a few examples such as pydqc, datagristle, bulwark, dvc, dedupe, and others, to give you an idea of the space. 
-
-In the second half, we will take a closer look at Great Expectations, one of the most popular open source Python packages for data validation and documentation. 
-
-We’ll demo how to create and run test suites with Great Expectations, and show you how to use the profiling feature to automatically create data tests for you.
-
-----
 
 ### [React](https://remote.reactsummit.com/) Summit
 
@@ -117,28 +104,33 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 ----
 
 ### Past Events     
-[08-19 MAR] [Mozilla](https://www.mozillafestival.org/en/) Festival - ✨
 
-[16-18 MAR] [CSO's Cybersecurity Summit](https://events.idg.com/event-series/csos-cybersecurity-summit/?campaign={nonbrand}&medium={cpc}&source={google}&gclid=Cj0KCQiA4L2BBhCvARIsAO0SBdaOPwKQudQeqLYKQTTjdP3HBzKRnVOtl1uWEZjIjeuFMn_5MuHGSlIaAuzLEALw_wcB)
+
+
            
-[18 FEB 21] [Bill Gates In Conversation](https://www.geekwire.com/calendar-event/bill-gates-conversation-online-bill-gates-conversation-online/)—Online
+{ `18 FEB 21` } - [Bill Gates In Conversation](https://www.geekwire.com/calendar-event/bill-gates-conversation-online-bill-gates-conversation-online/)—Online
 
-[19-21 FEB 2021] [PyCascades](https://2021.pycascades.com/) - ✨ 
+{ `19-21 FEB 2021` } - [PyCascades](https://2021.pycascades.com/) - ✨ 
 
-[24 FEB 21] [Women in Technology](https://hopin.com/events/women-in-technology-a5d875a1-2350-4d19-9645-b77bf27621d7) ♀️
+{ `24 FEB 21` } - [Women in Technology](https://hopin.com/events/women-in-technology-a5d875a1-2350-4d19-9645-b77bf27621d7) ♀️
 
-[22-27 FEB 2021] [JS World Conference](https://frontenddeveloperlove.com/)
+{ `22-27 FEB 2021` } - [JS World Conference](https://frontenddeveloperlove.com/)
 
-[25 FEB 21] [JSworld Conference Day 4 + Day 5](https://hopin.com/events/vuejs-amsterdam-jsworld-conference-day-5) = Vuejs Amsterdam
+{ `25 FEB 21` } - [JSworld Conference Day 4 + Day 5](https://hopin.com/events/vuejs-amsterdam-jsworld-conference-day-5) = Vuejs Amsterdam
 
-[26 FEB 21] [Our Digital Future Summit](https://hopin.com/events/our-digital-future-summit)
+{ `26 FEB 21` } - [Our Digital Future Summit](https://hopin.com/events/our-digital-future-summit)
 
-[04 MAR 21][Information Technology Networking Event](https://www.facebook.com/events/249936280010203/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22search_results%22%2C%22surface%22%3A%22search%22%7D]%7D) - 💼
+{ `04 MAR 21` } - [Information Technology Networking Event](https://www.facebook.com/events/249936280010203/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22search_results%22%2C%22surface%22%3A%22search%22%7D]%7D) - 💼
 
-[08 MAR 21] [Girl Geek Elevate Virtual Conference](https://girlgeek.io/conferences/elevate2021/)
+{ `08 MAR 21` } - [Girl Geek Elevate Virtual Conference](https://girlgeek.io/conferences/elevate2021/)
 
-[10 MAR 21] [Gender Agenda](https://hopin.com/events/gender-agenda-online-summit) Online Summit
+{ `08-19 MAR` } -  [Mozilla](https://www.mozillafestival.org/en/) Festival - ✨
 
+{ `10 MAR 21` } -[Gender Agenda](https://hopin.com/events/gender-agenda-online-summit) Online Summit
+
+{ `16-18 MAR` } - [CSO's Cybersecurity Summit](https://events.idg.com/event-series/csos-cybersecurity-summit/?campaign={nonbrand}&medium={cpc}&source={google}&gclid=Cj0KCQiA4L2BBhCvARIsAO0SBdaOPwKQudQeqLYKQTTjdP3HBzKRnVOtl1uWEZjIjeuFMn_5MuHGSlIaAuzLEALw_wcB)
+
+{ `23 MAR 21` } - [The Wonderful World of Data Quality in Python](https://www.meetup.com/data-umbrella/events/276462758/?isFromReg=true)
 
 
 ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) 👀
