@@ -19,6 +19,7 @@ Dates at a glance...<br>
 [25-27 MAR] DiversiTech Summit - 💼 
 [15 APR] Technical Workshop 1: Intro to Digital Accessibility & Inclusion
 [17-18 APR] VetsinTech: "The Invasion" National Conference 2021
+[21 APR] Belonging in the Workplace: A Conversation With An All-Autistic Panel of Professionals
 [22 APR] Technical Workshop 2: Live/Streamed Program Accessibility
 [29 APR] Technical Workshop 3: Accessibility in Digital Collections
 [15 JUN] LGBTQ+ in Tech
@@ -137,6 +138,16 @@ Sat, Apr 17, 2021, 8:00 AM –
 Sun, Apr 18, 2021, 12:00 PM PDT
 
 ✅ Tickets acquired ($5-$500)
+
+----
+
+### [Belonging in the Workplace](https://us02web.zoom.us/webinar/register/WN_1ePG7WVEQrqycRNsnYXPlg) :  A Conversation With An All-Autistic Panel of Professionals
+
+Apr 21, 2021 
+
+03:00 PM in Eastern Time (US and Canada)
+
+✅ Tickets acquired (free)
 
 ----
 
