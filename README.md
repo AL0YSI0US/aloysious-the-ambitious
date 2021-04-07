@@ -2,9 +2,9 @@
 
 <h1 align="center"> Upcoming 💻 events on my ambitious calendar</h1> 
 
-If there's an event you're excited about this year I would love to hear about it! 
+### 📢  If there's an event you're excited about this year, I would love to hear about it! 
 
-Head over to the [Discussions](https://github.com/AL0YSI0US/aloysious-the-ambitious/discussions) and shoot me a message.✉️ <br><br>
+Head over to the [Discussions](https://github.com/AL0YSI0US/aloysious-the-ambitious/discussions) to get it on my radar! 💬<br><br>
 
 <table align="center"><tr><td>
 <pre>
