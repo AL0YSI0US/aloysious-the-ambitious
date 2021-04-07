@@ -285,7 +285,3 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 
 ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) 👀
-
-
-
-<!-- https://github.com/AL0YSI0US/hit-counter --!>
