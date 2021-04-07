@@ -147,6 +147,8 @@ Apr 21, 2021
 
 03:00 PM in Eastern Time (US and Canada)
 
+Join a panel of all-Autistic professionals from Ultranauts for an insightful conversation about autism acceptance, the ‘Universal Workplace,’ and ways to be an ally to neurodivergent colleagues. The panelists will share stories based on their lived experience and strategies grounded in their work at Ultranauts.
+
 ✅ Tickets acquired (free)
 
 ----
