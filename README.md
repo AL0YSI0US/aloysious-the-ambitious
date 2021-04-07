@@ -227,7 +227,7 @@ Tue, August 17, 2021
 
 11:30 AM – 2:30 PM PDT
 
-Tickets = (free)
+✅ Tickets acquired (free)
 
 ----
 
@@ -237,7 +237,7 @@ Tue, October 19, 2021
 
 11:30 AM – 2:30 PM PDT
 
-Tickets = (free)
+✅ Tickets acquired (free)
 
 ----
 
