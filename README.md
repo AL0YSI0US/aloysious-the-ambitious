@@ -10,8 +10,6 @@ Head over to the [Discussions](https://github.com/AL0YSI0US/aloysious-the-ambiti
 <pre>
 
 Dates at a glance...<br>
-[13 APR] Black in Tech
-[14-16 APR] React
 [20-22 APR] Collision
 [18 MAY] Accessibility In Tech
 [15-19 MAR] GDC SHOWCASE
@@ -29,32 +27,6 @@ Dates at a glance...<br>
 [16 NOV] Veterans in Tech
 </pre>
 </td></tr></table><br>
-
-### [Black in Tech](https://www.eventbrite.com/e/black-in-tech-summit-presented-by-deloitte-tickets-130594889831?aff=erelpanelorg)
-
-Tue, April 13, 2021 
-
-10:00 AM – 12:30 PM PDT
-
-**WHO IS THE EVENT FOR?**
-
-Black leaders, entrepreneurs, and allies in tech who support and invest in diversity and inclusion. Join our new LinkedIn Group and start connecting with fellow entrepreneurs, tech professionals and more who will be attending the summit! Discuss takeaways, the session topics as well as future opportunities during and after the event!
-
-✅ Tickets acquired
-
-----
-
-### [React](https://remote.reactsummit.com/) Summit
-
-April 14-16, 2021.
-
-+ Open Diversity Scholarships:
-+ Application form  open until March 1, 2021, 11:59pm CET.
-+ [link to diversity application in this article](https://reactsummit.medium.com/get-a-diversity-scholarship-for-react-summit-remote-edition-2021-837c8b8795a2?fbclid=IwAR17CBqsqtNrWDluJpCH-JNfJza49PViDhXkN-akyBWkDsQDs_t7oR7VZiE)
-
-🎯 Application pending
-
-----
 
 ### [Collision](https://collisionconf.com/?utm_source=google&utm_medium=cpc&utm_campaign=10333646152&utm_content=115014181198&utm_term=collision%20summit&gclid=CjwKCAiAmrOBBhA0EiwArn3mfFNzSVTetL1-V_XX4_uIJQ5ukPE2OxLSPoNjAdMzRYQrpmg68y7l7xoCSkoQAvD_BwE) 2021
 
@@ -261,11 +233,11 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
           
 { `18 FEB 21` } - [Bill Gates In Conversation](https://www.geekwire.com/calendar-event/bill-gates-conversation-online-bill-gates-conversation-online/)—Online
 
-{ `19-21 FEB 2021` } - [PyCascades](https://2021.pycascades.com/) - ✨ 
+{ `19-21 FEB 21` } - [PyCascades](https://2021.pycascades.com/) - ✨ 
 
 { `24 FEB 21` } - [Women in Technology](https://hopin.com/events/women-in-technology-a5d875a1-2350-4d19-9645-b77bf27621d7) ♀️
 
-{ `22-27 FEB 2021` } - [JS World Conference](https://frontenddeveloperlove.com/)
+{ `22-27 FEB 21` } - [JS World Conference](https://frontenddeveloperlove.com/)
 
 { `25 FEB 21` } - [JSworld Conference Day 4 + Day 5](https://hopin.com/events/vuejs-amsterdam-jsworld-conference-day-5) = Vuejs Amsterdam
 
@@ -275,13 +247,16 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 { `08 MAR 21` } - [Girl Geek Elevate Virtual Conference](https://girlgeek.io/conferences/elevate2021/)
 
-{ `08-19 MAR` } -  [Mozilla](https://www.mozillafestival.org/en/) Festival - ✨
+{ `08-19 MAR 21` } -  [Mozilla](https://www.mozillafestival.org/en/) Festival - ✨
 
 { `10 MAR 21` } -[Gender Agenda](https://hopin.com/events/gender-agenda-online-summit) Online Summit
 
-{ `16-18 MAR` } - [CSO's Cybersecurity Summit](https://events.idg.com/event-series/csos-cybersecurity-summit/?campaign={nonbrand}&medium={cpc}&source={google}&gclid=Cj0KCQiA4L2BBhCvARIsAO0SBdaOPwKQudQeqLYKQTTjdP3HBzKRnVOtl1uWEZjIjeuFMn_5MuHGSlIaAuzLEALw_wcB)
+{ `16-18 MAR 21` } - [CSO's Cybersecurity Summit](https://events.idg.com/event-series/csos-cybersecurity-summit/?campaign={nonbrand}&medium={cpc}&source={google}&gclid=Cj0KCQiA4L2BBhCvARIsAO0SBdaOPwKQudQeqLYKQTTjdP3HBzKRnVOtl1uWEZjIjeuFMn_5MuHGSlIaAuzLEALw_wcB)
 
 { `23 MAR 21` } - [The Wonderful World of Data Quality in Python](https://www.meetup.com/data-umbrella/events/276462758/?isFromReg=true)
 
+{ `13 APR 21` } - [Black in Tech](https://www.eventbrite.com/e/black-in-tech-summit-presented-by-deloitte-tickets-130594889831?aff=erelpanelorg)
+
+{ `14-16 APR 21`} - [React](https://remote.reactsummit.com/) Summit
 
 ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) 👀
