@@ -10,7 +10,6 @@ Head over to the [Discussions](https://github.com/AL0YSI0US/aloysious-the-ambiti
 <pre>
 
 Dates at a glance...<br>
-[20-22 APR] Collision
 [18 MAY] Accessibility In Tech
 [15-19 MAR] GDC SHOWCASE
 [24-25 MAR] Codecamp .NET
@@ -27,29 +26,6 @@ Dates at a glance...<br>
 [16 NOV] Veterans in Tech
 </pre>
 </td></tr></table><br>
-
-### [Collision](https://collisionconf.com/?utm_source=google&utm_medium=cpc&utm_campaign=10333646152&utm_content=115014181198&utm_term=collision%20summit&gclid=CjwKCAiAmrOBBhA0EiwArn3mfFNzSVTetL1-V_XX4_uIJQ5ukPE2OxLSPoNjAdMzRYQrpmg68y7l7xoCSkoQAvD_BwE) 2021
-
-April 20th–22nd, 2021
-
-+ Base Camp ticket April 14, 15 Free *Watch only access for Base Camp track*
-+ Summit ticket April 14, 15, 16 (euros)46 ***Free with GitNation Multipass*** *Watch Only access to Summit & Base Camp Tracks*
-+ Full Ticket (euros)180
-+ Free workshops
-+ Q&A with speakers
-+ Interactive sessions with speakers
-+ Technology discussion rooms
-+ Watching party
-+ AfterParty Bars
-+ Conference Stickers & more sent to your home
-+ Certificates on Workshops & Conference Participation
-+ Instant Access to Talks Recordings
-+ tickets: $19.99 before tax [Womxn only, apply here](https://collisionconf.com/women-in-tech#:~:text=What%20are%20Collision%20women%20in%20tech%20tickets%3F&text=Women%20in%20tech%20tickets%20offer,exclusive%20women%20in%20tech%20extras.) ♀️
-+ tickets general= $80-$999
-
-✅ Tickets acquired
-
-----
 
 ### [GDC SHOWCASE](https://gdconf.com/showcase?MCAID=77FB1CFE532B22840A490D45@AdobeOrg)
 
@@ -257,6 +233,8 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 { `13 APR 21` } - [Black in Tech](https://www.eventbrite.com/e/black-in-tech-summit-presented-by-deloitte-tickets-130594889831?aff=erelpanelorg)
 
-{ `14-16 APR 21`} - [React](https://remote.reactsummit.com/) Summit
+{ `14-16 APR 21` } - [React](https://remote.reactsummit.com/) Summit
+
+{ `20-22 APR` } [Collision]((https://collisionconf.com/?utm_source=google&utm_medium=cpc&utm_campaign=10333646152&utm_content=115014181198&utm_term=collision%20summit&gclid=CjwKCAiAmrOBBhA0EiwArn3mfFNzSVTetL1-V_XX4_uIJQ5ukPE2OxLSPoNjAdMzRYQrpmg68y7l7xoCSkoQAvD_BwE))
 
 ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) 👀
