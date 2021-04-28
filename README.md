@@ -168,7 +168,7 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 { `17-18 APR 21` } - [VetsinTech: "The Invasion" National Conference 2021](https://www.eventbrite.com/e/vetsintech-the-invasion-national-conference-2021-tickets-86367540639?aff=ebdssbonlinesearch)
 
-{ `20-22 APR` } [Collision]((https://collisionconf.com/?utm_source=google&utm_medium=cpc&utm_campaign=10333646152&utm_content=115014181198&utm_term=collision%20summit&gclid=CjwKCAiAmrOBBhA0EiwArn3mfFNzSVTetL1-V_XX4_uIJQ5ukPE2OxLSPoNjAdMzRYQrpmg68y7l7xoCSkoQAvD_BwE)
+{ `20-22 APR` } [Collision](https://collisionconf.com/?utm_source=google&utm_medium=cpc&utm_campaign=10333646152&utm_content=115014181198&utm_term=collision%20summit&gclid=CjwKCAiAmrOBBhA0EiwArn3mfFNzSVTetL1-V_XX4_uIJQ5ukPE2OxLSPoNjAdMzRYQrpmg68y7l7xoCSkoQAvD_BwE)
 
 { `21 APR 21` } - [Belonging in the Workplace](https://us02web.zoom.us/webinar/register/WN_1ePG7WVEQrqycRNsnYXPlg) :  A Conversation With An All-Autistic Panel of Professionals
 
