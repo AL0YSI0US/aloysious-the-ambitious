@@ -11,13 +11,6 @@ Head over to the [Discussions](https://github.com/AL0YSI0US/aloysious-the-ambiti
 
 Dates at a glance...<br>
 [18 MAY] Accessibility In Tech
-[15-19 MAR] GDC SHOWCASE
-[24-25 MAR] Codecamp .NET
-[25-27 MAR] DiversiTech Summit - 💼 
-[15 APR] Technical Workshop 1: Intro to Digital Accessibility & Inclusion
-[17-18 APR] VetsinTech: "The Invasion" National Conference 2021
-[21 APR] Belonging in the Workplace: A Conversation With An All-Autistic Panel of Professionals
-[22 APR] Technical Workshop 2: Live/Streamed Program Accessibility
 [29 APR] Technical Workshop 3: Accessibility in Digital Collections
 [15 JUN] LGBTQ+ in Tech
 [19-23 JUN] Game Developer Conference 2021 
@@ -27,13 +20,6 @@ Dates at a glance...<br>
 </pre>
 </td></tr></table><br>
 
-### [GDC SHOWCASE](https://gdconf.com/showcase?MCAID=77FB1CFE532B22840A490D45@AdobeOrg)
-
-March 15-19, 2021 
-
-✅ Tickets acquired (free)
-
-<h4 align="center">👆🏾 event above is a showcase for the event below 👇🏾</h4>
 
 ### [Game Developer Conference 2021](https://www.gdconf.com/)
 
@@ -42,72 +28,6 @@ Jun 19, 2021 10:00am to 7:00pm Jun 23, 2021
 tickets=ukn
 
 🎯 Tickets not on sale yet
-
-----
-
-### [Codecamp .NET](https://codecamp.ro/dot-net-conference-march)
-
-Two days dedicated to .NET and learn more about the subject from 
-
-some of the world’s top experts and thought leaders in the field.
-
-✅ Tickets acquired = (free)
-
-----
-
-### Diversitech Summit - 💼
-
-25-27 MAR 2021
-
-One of the largest virtual experiences dedicated to bringing together diverse leaders, 
-
-tech enthusiasts, and the workplaces that support them. 
-
-[Tickets](https://www.eventbrite.com/e/diversitech-summit-tickets-137064961991) 0-50$
-
-✅ Tickets acquired 
-
-----
-
-### [Technical Workshop 1: Intro to Digital Accessibility & Inclusion](https://www.eventbrite.com/e/technical-workshop-1-intro-to-digital-accessibility-inclusion-tickets-145128953607?aff=erelpanelorg)
-
-Thu, April 15, 2021
-
-11:00 AM – 12:00 PM PDT
-
-✅ Tickets acquired (free)
-
-----
-
-### [VetsinTech: "The Invasion" National Conference 2021](https://www.eventbrite.com/e/vetsintech-the-invasion-national-conference-2021-tickets-86367540639?aff=ebdssbonlinesearch)
-
-Sat, Apr 17, 2021, 8:00 AM –
-
-Sun, Apr 18, 2021, 12:00 PM PDT
-
-✅ Tickets acquired ($5-$500)
-
-----
-
-### [Belonging in the Workplace](https://us02web.zoom.us/webinar/register/WN_1ePG7WVEQrqycRNsnYXPlg) :  A Conversation With An All-Autistic Panel of Professionals
-
-Apr 21, 2021 
-
-03:00 PM in Eastern Time (US and Canada)
-
-Join a panel of all-Autistic professionals from Ultranauts for an insightful conversation about autism acceptance, the ‘Universal Workplace,’ and ways to be an ally to neurodivergent colleagues. The panelists will share stories based on their lived experience and strategies grounded in their work at Ultranauts.
-
-✅ Tickets acquired (free)
-
-----
-
-### [Technical Workshop 2: Live/Streamed Program Accessibility](https://www.eventbrite.com/e/technical-workshop-2-livestreamed-program-accessibility-tickets-145131368831?aff=erellivmlt)
-
-Thu, April 22, 2021
-
-11:00 AM – 12:00 PM PDT
-
-✅ Tickets acquired (free)
 
 ----
 
@@ -225,16 +145,30 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 { `08-19 MAR 21` } -  [Mozilla](https://www.mozillafestival.org/en/) Festival - ✨
 
-{ `10 MAR 21` } -[Gender Agenda](https://hopin.com/events/gender-agenda-online-summit) Online Summit
+{ `10 MAR 21` } - [Gender Agenda](https://hopin.com/events/gender-agenda-online-summit) Online Summit
+
+{ `15-19 MAR 21` } - [GDC SHOWCASE](https://gdconf.com/showcase?MCAID=77FB1CFE532B22840A490D45@AdobeOrg) 
 
 { `16-18 MAR 21` } - [CSO's Cybersecurity Summit](https://events.idg.com/event-series/csos-cybersecurity-summit/?campaign={nonbrand}&medium={cpc}&source={google}&gclid=Cj0KCQiA4L2BBhCvARIsAO0SBdaOPwKQudQeqLYKQTTjdP3HBzKRnVOtl1uWEZjIjeuFMn_5MuHGSlIaAuzLEALw_wcB)
 
 { `23 MAR 21` } - [The Wonderful World of Data Quality in Python](https://www.meetup.com/data-umbrella/events/276462758/?isFromReg=true)
 
+{ `24-25 MAR 21` } - [Codecamp .NET](https://codecamp.ro/dot-net-conference-march) 
+
+{ `25-27 MAR 21` } - [DiversiTech Summit](https://www.eventbrite.com/e/diversitech-summit-tickets-137064961991) - 💼 
+
 { `13 APR 21` } - [Black in Tech](https://www.eventbrite.com/e/black-in-tech-summit-presented-by-deloitte-tickets-130594889831?aff=erelpanelorg)
 
 { `14-16 APR 21` } - [React](https://remote.reactsummit.com/) Summit
 
-{ `20-22 APR` } [Collision]((https://collisionconf.com/?utm_source=google&utm_medium=cpc&utm_campaign=10333646152&utm_content=115014181198&utm_term=collision%20summit&gclid=CjwKCAiAmrOBBhA0EiwArn3mfFNzSVTetL1-V_XX4_uIJQ5ukPE2OxLSPoNjAdMzRYQrpmg68y7l7xoCSkoQAvD_BwE))
+{ `15 APR 21` } - [Technical Workshop 1: Intro to Digital Accessibility & Inclusion](https://www.eventbrite.com/e/technical-workshop-1-intro-to-digital-accessibility-inclusion-tickets-145128953607?aff=erelpanelorg)
+
+{ `17-18 APR 21` } - [VetsinTech: "The Invasion" National Conference 2021](https://www.eventbrite.com/e/vetsintech-the-invasion-national-conference-2021-tickets-86367540639?aff=ebdssbonlinesearch)
+
+{ `20-22 APR` } [Collision]((https://collisionconf.com/?utm_source=google&utm_medium=cpc&utm_campaign=10333646152&utm_content=115014181198&utm_term=collision%20summit&gclid=CjwKCAiAmrOBBhA0EiwArn3mfFNzSVTetL1-V_XX4_uIJQ5ukPE2OxLSPoNjAdMzRYQrpmg68y7l7xoCSkoQAvD_BwE)
+
+{ `21 APR 21` } - [Belonging in the Workplace](https://us02web.zoom.us/webinar/register/WN_1ePG7WVEQrqycRNsnYXPlg) :  A Conversation With An All-Autistic Panel of Professionals
+
+{ `22 APR 21` } - [Technical Workshop 2: Live/Streamed Program Accessibility](https://www.eventbrite.com/e/technical-workshop-2-livestreamed-program-accessibility-tickets-145131368831?aff=erellivmlt)
 
 ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) 👀
