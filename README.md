@@ -10,8 +10,9 @@ Head over to the [Discussions](https://github.com/AL0YSI0US/aloysious-the-ambiti
 <pre>
 
 Dates at a glance...<br>
-[18 MAY] Accessibility In Tech
+[29 APR] React & REST API: Get Data From a Web Database!
 [29 APR] Technical Workshop 3: Accessibility in Digital Collections
+[18 MAY] Accessibility In Tech
 [15 JUN] LGBTQ+ in Tech
 [19-23 JUN] Game Developer Conference 2021 
 [17 AUG] Latinx in Tech
@@ -20,16 +21,6 @@ Dates at a glance...<br>
 </pre>
 </td></tr></table><br>
 
-
-### [Game Developer Conference 2021](https://www.gdconf.com/)
-
-Jun 19, 2021 10:00am to 7:00pm Jun 23, 2021
-+(GMT+01:00) Central European Time - Berlin
-tickets=ukn
-
-🎯 Tickets not on sale yet
-
-----
 
 ### [Technical Workshop 3: Accessibility in Digital Collections](https://www.eventbrite.com/e/technical-workshop-3-accessibility-in-digital-collections-tickets-145136779013?aff=erellivmlt)
 
@@ -86,6 +77,18 @@ Tue, June 15, 2021
 11:30 AM – 2:30 PM PDT
 
 ✅ Tickets acquired (free)
+
+----
+
+### [Game Developer Conference 2021](https://www.gdconf.com/)
+
+Jun 19, 2021 10:00am to 7:00pm Jun 23, 2021
+
++(GMT+01:00) Central European Time - Berlin
+
+tickets=ukn
+
+🎯 Tickets not on sale yet
 
 ----
 
