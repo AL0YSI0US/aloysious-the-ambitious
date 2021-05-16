@@ -10,8 +10,6 @@ Head over to the [Discussions](https://github.com/AL0YSI0US/aloysious-the-ambiti
 <pre>
 
 Dates at a glance...<br>
-[29 APR] React & REST API: Get Data From a Web Database!
-[29 APR] Technical Workshop 3: Accessibility in Digital Collections
 [18 MAY] Accessibility In Tech
 [15 JUN] LGBTQ+ in Tech
 [19-23 JUN] Game Developer Conference 2021 
@@ -20,43 +18,6 @@ Dates at a glance...<br>
 [16 NOV] Veterans in Tech
 </pre>
 </td></tr></table><br>
-
-
-### [Technical Workshop 3: Accessibility in Digital Collections](https://www.eventbrite.com/e/technical-workshop-3-accessibility-in-digital-collections-tickets-145136779013?aff=erellivmlt)
-
-Thu, April 29, 2021
-
-11:00 AM – 12:00 PM PDT
-
-✅ Tickets acquired (free)
-
-----
-
-### [React & REST API: Get Data From a Web Database!](https://www.eventbrite.com/e/react-rest-api-get-data-from-a-web-database-tickets-148789351957?aff=ebdssbonlinesearch)
-
-Thu, April 29, 2021
-
-6:00 PM – 8:00 PM PDT
-
-In this 2 hour workshop, you'll walk away with a React project that interacts with Kintone, a Web Database service.
-
-We'll walk you through the basics of REST API calls and CORS, usage of State and Effect Hooks, setting up an Express back-end, and using it as a proxy.
-
-Prerequisite: 
-
-🚀 Sign up for Kintone!
-
-① Sign-Up for Developer Program Account (Website) 🌐
-
-+ bit.ly/KDP_signup
-
-② THEN Create a Kintone Subdomain (Database) 📂
-
-+ bit.ly/K_DevLic
-
-✅ Tickets acquired (free)
-
-----
 
 ### [Accessibility In Tech](https://www.eventbrite.com/e/accessibility-in-tech-presented-by-microsoft-tickets-135385015225?aff=ebdssbonlinesearch) 
 
@@ -173,5 +134,9 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 { `21 APR 21` } - [Belonging in the Workplace](https://us02web.zoom.us/webinar/register/WN_1ePG7WVEQrqycRNsnYXPlg) :  A Conversation With An All-Autistic Panel of Professionals
 
 { `22 APR 21` } - [Technical Workshop 2: Live/Streamed Program Accessibility](https://www.eventbrite.com/e/technical-workshop-2-livestreamed-program-accessibility-tickets-145131368831?aff=erellivmlt)
+
+{ `29 APR 21` } - [Technical Workshop 3: Accessibility in Digital Collections](https://www.eventbrite.com/e/technical-workshop-3-accessibility-in-digital-collections-tickets-145136779013?aff=erellivmlt)
+
+{ `29 APR 21` } - [React & REST API: Get Data From a Web Database!](https://www.eventbrite.com/e/react-rest-api-get-data-from-a-web-database-tickets-148789351957?aff=ebdssbonlinesearch)
 
 ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) 👀
