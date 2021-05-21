@@ -10,7 +10,6 @@ Head over to the [Discussions](https://github.com/AL0YSI0US/aloysious-the-ambiti
 <pre>
 
 Dates at a glance...<br>
-[18 MAY] Accessibility In Tech
 [15 JUN] LGBTQ+ in Tech
 [19-23 JUN] Game Developer Conference 2021 
 [17 AUG] Latinx in Tech
@@ -18,18 +17,6 @@ Dates at a glance...<br>
 [16 NOV] Veterans in Tech
 </pre>
 </td></tr></table><br>
-
-### [Accessibility In Tech](https://www.eventbrite.com/e/accessibility-in-tech-presented-by-microsoft-tickets-135385015225?aff=ebdssbonlinesearch) 
-
-`presented by Microsoft`
-
-Tue, May 18, 2021
-
-11:30 AM – 2:30 PM PDT
-
-✅ Tickets acquired (free)
-
-----
 
 ### [LGBTQ+ in Tech](https://www.eventbrite.com/e/lgbtq-in-tech-tickets-135388134555?aff=erellivmlt)
 
@@ -138,5 +125,7 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 { `29 APR 21` } - [Technical Workshop 3: Accessibility in Digital Collections](https://www.eventbrite.com/e/technical-workshop-3-accessibility-in-digital-collections-tickets-145136779013?aff=erellivmlt)
 
 { `29 APR 21` } - [React & REST API: Get Data From a Web Database!](https://www.eventbrite.com/e/react-rest-api-get-data-from-a-web-database-tickets-148789351957?aff=ebdssbonlinesearch)
+
+{ `18 MAY 21` } - [Accessibility In Tech](https://www.eventbrite.com/e/accessibility-in-tech-presented-by-microsoft-tickets-135385015225?aff=ebdssbonlinesearch) 
 
 ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) 👀
